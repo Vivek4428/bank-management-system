@@ -1,0 +1,96 @@
+# Bytecode files
+*.class
+
+# Logs
+*.log
+*.out
+*.err
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+target/
+
+# NetBeans
+.nb-gradle/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.orig
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/cache/
+.gradle/wrapper/dists/
+.gradle/buildOutputCleanup/
+
+# Lombok generated files
+**/build/lombok.config
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Compiled Java classes
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Java generated files
+hs_err_pid*
+replay_pid*
+
+# Intellij IDEA
+*.iws
+.idea/
+.idea_modules/
+*.iml
+
+# Project-specific files (optional)
+dbconfig.yml
+config/
